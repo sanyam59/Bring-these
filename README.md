@@ -3,7 +3,7 @@ Bring these a shopping list app
 This is a simple web application that allows users to add items to their shopping list, which can be removed after they have been bought. The app is built using HTML, CSS, and JavaScript and uses Firebase as the database. The app is deployed on Netlify.
 
 Demo
-You can see a live demo of the app at https://shopping-list-app.netlify.app/.
+You can see a live demo of the app at https://bring-these.netlify.app/.
 
 Features
 The app has the following features:
